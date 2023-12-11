@@ -1,5 +1,5 @@
 # Coffee and AI
-just training to uncover whats ai and how to learn it, nothing much.   
+just trying to uncover whats ai and how to learn it, nothing much.   
 repo created to save ma progress in learning ai , with the end goal of entering **[kaggle house prices competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)**
 
 
